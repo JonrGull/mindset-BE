@@ -8,6 +8,8 @@ authors = ["Jon <25947147+JonrGull@users.noreply.github.com>"]
 python = "^3.8"
 Flask = "^2.1.2"
 python-dotenv = "^0.20.0"
+ariadne = "^0.15.1"
+Flask-SQLAlchemy = "^2.5.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
